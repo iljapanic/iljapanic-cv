@@ -4,14 +4,21 @@
   "description": "personal curriculum vitae",
   "dependencies": {},
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "autoprefixer": "^9.7.4",
+    "parcel-bundler": "^1.12.4",
+    "postcss-import": "^12.0.1",
+    "postcss-modules": "^1.5.0",
+    "postcss-variables": "^1.1.1",
+    "prettier": "^1.19.1",
+    "pug": "^2.0.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel src/index.pug",
+    "build": "parcel build src/index.pug"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iljapanic/cv.git"
+    "url": "git+https://github.com/iljapanic/iljapanic-cv.git"
   },
   "keywords": [
     "resume",

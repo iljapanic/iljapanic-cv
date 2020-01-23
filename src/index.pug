@@ -1,0 +1,13 @@
+doctype html
+html(lang='en')
+  head
+    title #{title}
+    link(rel="stylesheet" type="text/css" href="./css/style.css")
+  body
+    header.header
+      div.image
+        img.profile-image(src="./img/iljapanic.jpg")
+      div.bio
+        h1.name #{cv.basics.name}
+        p.label #{cv.basics.label}
+        p.summary #{cv.basics.summary}

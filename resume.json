@@ -1,29 +1,34 @@
 {
   "basics": {
     "name": "Ilja A. Panic",
-    "label": "Programmer",
-    "picture": "",
+    "label": "Creative Technologist & UX Engineer",
+    "picture": "https://cv.iljapanic.com/img/iljapanic.jpg",
     "email": "iljapanic@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "",
+    "website": "https://ilja.link/cv-website",
+    "summary": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam id dolor id nibh ultricies vehicula ut id elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Prague",
+      "countryCode": "CZ",
+      "region": ""
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "username": "iljapanic",
+        "url": "https://ilja.link/cv-twitter"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "LinkedIn",
+        "username": "iljapanic",
+        "url": "https://ilja.link/cv-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "iljapanic",
+        "url": "https://ilja.link/cv-github"
       }
     ]
   },
@@ -50,9 +55,7 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "highlights": ["Awarded 'Teacher of the Month'"]
     }
   ],
   "education": [
@@ -63,10 +66,7 @@
       "startDate": "2011-06-01",
       "endDate": "2014-01-01",
       "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
     }
   ],
   "awards": [
@@ -90,20 +90,12 @@
     {
       "name": "Web Development",
       "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
+      "keywords": ["HTML", "CSS", "Javascript"]
     },
     {
       "name": "Compression",
       "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
+      "keywords": ["Mpeg", "MP4", "GIF"]
     }
   ],
   "languages": [
@@ -115,10 +107,7 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "keywords": ["Ferrets", "Unicorns"]
     }
   ],
   "references": [
