@@ -1,0 +1,28 @@
+{
+  "name": "iljapanic-cv",
+  "version": "1.0.0",
+  "description": "personal curriculum vitae",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iljapanic/cv.git"
+  },
+  "keywords": [
+    "resume",
+    "curriculum",
+    "vitae",
+    "personal"
+  ],
+  "author": "Ilja Panic <ilja@iljapanic.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iljapanic/cv/issues"
+  },
+  "homepage": "https://github.com/iljapanic/cv#readme"
+}
