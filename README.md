@@ -1,1 +1,1 @@
-# resume
+# curriculum vitae
