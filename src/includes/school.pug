@@ -1,0 +1,13 @@
+article.mb-10
+  h3.text-xl.leading-tight #{school.area}
+  a(href=`${school.website}` target="_blank")
+      span.font-light.text-gray-800 #{school.institution}
+  div.text-gray-600.text-xs
+    | #{school.startDate}—#{school.endDate}
+    |  &middot; #{school.location}
+
+
+    //- span.bg-gray-300.text-xs.ml-2.px-2.rounded.tracking-wide.text-gray-500 #{job.type}
+  ul.list-none.mt-2
+    each item in school.courses
+      li #{item}

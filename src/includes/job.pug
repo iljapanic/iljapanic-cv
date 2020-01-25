@@ -1,0 +1,20 @@
+article.mb-10
+  h3.text-xl.leading-tight.inline-flex.items-center
+    | #{job.position}
+    a(href=`${job.website}` target="_blank" class="font-light text-sm text-gray-600")
+      span.mx-2 |
+      | #{job.company}
+
+  div.text-gray-600.text-xs.mt-1
+    | #{job.startDate}—#{job.endDate}
+    |  &middot; #{job.type}
+    if job.location
+      |  &middot; #{job.location}
+
+  button.text-xs.text-gray-500.tracking-wide.bg-white.border.border-gray-400.rounded.px-1.mt-2 + Show highlights
+
+    //- span.bg-gray-300.text-xs.ml-2.px-2.rounded.tracking-wide.text-gray-500 #{job.type}
+  //- ul.list-none.mt-2
+  //-   each item in job.highlights
+  //-     li #{item}
+

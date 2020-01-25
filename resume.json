@@ -5,6 +5,7 @@
     "picture": "https://cv.iljapanic.com/img/iljapanic.jpg",
     "email": "iljapanic@gmail.com",
     "phone": "",
+    "startDate": "2014-10-01",
     "website": "https://ilja.link/cv-website",
     "summary": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam id dolor id nibh ultricies vehicula ut id elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
     "location": {
@@ -34,58 +35,150 @@
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "iljapanic.com",
+      "position": "UX Engineer & Information Architect",
+      "website": "https://iljapanic.com",
+      "type": "self-employed",
+      "location": "",
+      "startDate": "Sep 2015",
+      "endDate": "present",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Consulting business owners, startups and artists with their digital strategy",
+        "Designing interfaces, conceptualizing system architecture, devising content models",
+        "Developing tailored-made solutions with a focus on UX and usability"
+      ]
+    },
+    {
+      "company": "Copenhagen Business School",
+      "position": "Research Assistant",
+      "type": "freelance",
+      "location": "Copenhagen",
+      "website": "https://iljapanic.com",
+      "startDate": "Apr 2017",
+      "endDate": "Oct 2017",
+      "duration": "7 months",
+      "highlights": [
+        "Worked with an associate professor on research in the field of Information Management",
+        "Developed Python scripts for cleansing and manipulating data sets"
+      ]
+    },
+    {
+      "company": "Folkmatic",
+      "position": "Front-end Developer",
+      "type": "freelance",
+      "location": "Copenhagen",
+      "website": "http://folkmatic.com/",
+      "startDate": "Jan 2015",
+      "endDate": "Jun 2015",
+      "duration": "6 months",
+      "highlights": [
+        "Worked on a project basis with international clients",
+        "Designed UX concepts and developed UI prototypes",
+        "Lead FE developer on a project for a telecom network operator"
+      ]
+    },
+    {
+      "company": "Spoiled Milk",
+      "position": "Front-end Developer",
+      "type": "internship",
+      "location": "Copenhagen",
+      "website": "http://spoiledmilk.com/",
+      "startDate": "Sep 2014",
+      "endDate": "Dec 2014",
+      "duration": "4 months",
+      "highlights": [
+        "Performed various ad-hoc development tasks across projects",
+        "Supported core developers on a homepage redesign for a major national political party",
+        "Maintained a homepage for a UK-based investment bank"
+      ]
+    },
+    {
+      "company": "Fontai",
+      "position": "Assistant Project Manager",
+      "type": "freelance",
+      "location": "Prague",
+      "website": "https://fontai.com/",
+      "startDate": "May 2012",
+      "endDate": "Sep 2012",
+      "duration": "5 months",
+      "highlights": [
+        "Overseen the development of an internal newsletter tool used by the agency's clients",
+        "Prepared a pricing model, promo materials, presentations and newsletter prototypes"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
-    }
-  ],
-  "awards": [
+      "institution": "Institute for Advanced Architecture of Catalonia",
+      "area": "Design for Emergent Futures",
+      "studyType": "MA",
+      "location": "Barcelona",
+      "website": "https://iaac.net/educational-programmes/master-design-emergent-futures/",
+      "startDate": "2018",
+      "endDate": "2019",
+      "courses": [
+        "Designing for Extended Intelligence",
+        "Exploring Hybrid Profiles in Design",
+        "Introduction to Futures"
+      ]
+    },
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
+      "institution": "UCL",
+      "area": "Smart Cities & Urban Analytics",
+      "studyType": "MSc",
+      "location": "London",
+      "website": "https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/smart-cities-urban-analytics-msc",
+      "startDate": "2017",
+      "endDate": "2018",
+      "courses": [
+        "Geographic Information Systems and Science",
+        "Smart Cities: Context, Policy and Government",
+        "Spatial Data Capture, Storage and Analysis",
+        "Urban Systems Theory",
+        "Urban Simulation",
+        "Urban Innovation and Policy",
+        "Quantitative Methods"
+      ]
+    },
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "institution": "Copenhagen Business School",
+      "area": "Information Management",
+      "studyType": "BA",
+      "location": "Copenhagen",
+      "website": "https://www.cbs.dk/en/study/bachelor/ba-in-information-management",
+      "startDate": "2012",
+      "endDate": "2015",
+      "courses": [
+        "Business models for user experience design of social media smartphone apps",
+        "Business Economics and Information Management",
+        "Communication and Knowledge Management",
+        "Corporate Communication and Information Management",
+        "Fundamentals of Internet technology and business models",
+        "Information and Knowledge in Organizations",
+        "Information in Context",
+        "Organization, Innovation and Systems Design",
+        "Organisational Change",
+        "Computer-mediated Communication and Collaboration"
+      ]
+    },
+    {
+      "institution": "University of Economics",
+      "area": "Applied Informatics",
+      "studyType": "",
+      "location": "Prague",
+      "website": "http://kit.vse.cz/english/study/b-informatics/",
+      "startDate": "2011",
+      "endDate": "2012",
+      "courses": [
+        "Programming in Java",
+        "Enterprise information systems",
+        "Mathematical foundations of informatics"
+      ]
     }
   ],
+  "awards": [],
+  "publications": [],
   "skills": [
     {
       "name": "Web Development",

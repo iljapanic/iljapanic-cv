@@ -3,11 +3,31 @@ html(lang='en')
   head
     title #{title}
     link(rel="stylesheet" type="text/css" href="./css/style.css")
-  body
-    header.header
-      div.image
-        img.profile-image(src="./img/iljapanic.jpg")
-      div.bio
-        h1.name #{cv.basics.name}
-        p.label #{cv.basics.label}
-        p.summary #{cv.basics.summary}
+  body.font-inter
+
+    //- header
+    header.max-w-5xl.mx-auto.px-2.py-12.md_flex
+      div(class="md_w-1/3  md_pr-8")
+        img(src="./img/iljapanic.jpg")
+      div(class="md_w-2/3")
+        h1.text-4xl.font-light.text-gray-700 #{cv.basics.name}
+        p.font-medium.text-gray-800 #{cv.basics.label}
+        p.mt-2 #{cv.basics.summary}
+
+    main.max-w-5xl.mx-auto.lg_flex
+      div(class="lg_w-2/3")
+        section
+          h2.section-title.mb-4 Experience
+
+          each job in work
+            include includes/job.pug
+
+        section
+          h2.section-title Education
+
+          each school in education
+            include includes/school.pug
+
+      aside(class="lg_w-1/3")
+        section
+          h2.section-title Skills
