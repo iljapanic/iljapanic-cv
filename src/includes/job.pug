@@ -1,6 +1,6 @@
 article.mb-10
   div
-    |LOGO
+    img(src=`${job.logo}`, alt="")
   h3.text-xl.leading-tight.inline-flex.items-center
     | #{job.position}
     a(href=`${job.website}` target="_blank" class="font-light text-sm text-gray-600")
@@ -13,11 +13,8 @@ article.mb-10
     if job.location
       |  &middot; #{job.location}
 
-  a.text-xs.text-gray-500.tracking-wide.bg-white.border.border-gray-400.rounded.px-1.mt-2(href=`#job-${index}` class="accordion-toggle") + Show highlights
-
-    //- span.bg-gray-300.text-xs.ml-2.px-2.rounded.tracking-wide.text-gray-500 #{job.type}
-  div(id=`job-${index}` class="accordion-content")
-    ul.list-none.mt-2
+  div(id=`job-${index}`)
+    ul.list-none.mt-2.text-sm.text-gray-800
       each item in job.highlights
-        li #{item}
+        li.mb-1 #{item}
 
