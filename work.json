@@ -1,0 +1,87 @@
+[
+  {
+    "company": "Memsource",
+    "position": "UX Engineer",
+    "website": "https://memsource.com",
+    "type": "full-time",
+    "location": "Prague, CZ",
+    "startDate": "Jan 2020",
+    "endDate": "present",
+    "highlights": [
+      "Collaborating with executives to devise a long-term UX design strategy",
+      "Planning & developing a design system"
+    ]
+  },
+  {
+    "company": "iljapanic.com",
+    "position": "UX Engineer & Information Architect",
+    "website": "https://iljapanic.com",
+    "type": "self-employed",
+    "location": "",
+    "startDate": "Sep 2015",
+    "endDate": "present",
+    "highlights": [
+      "Consulting business owners, startups and artists with their digital strategy",
+      "Designing interfaces, conceptualizing system architecture, devising content models",
+      "Developing tailored-made solutions with a focus on UX and usability"
+    ]
+  },
+  {
+    "company": "Copenhagen Business School",
+    "position": "Research Assistant",
+    "type": "freelance",
+    "location": "Copenhagen, DK",
+    "website": "https://iljapanic.com",
+    "startDate": "Apr 2017",
+    "endDate": "Oct 2017",
+    "duration": "7 months",
+    "highlights": [
+      "Worked with an associate professor on research in the field of Information Management",
+      "Developed Python scripts for cleansing and manipulating data sets"
+    ]
+  },
+  {
+    "company": "Folkmatic",
+    "position": "Front-end Developer",
+    "type": "freelance",
+    "location": "Copenhagen, DK",
+    "website": "http://folkmatic.com/",
+    "startDate": "Jan 2015",
+    "endDate": "Jun 2015",
+    "duration": "6 months",
+    "highlights": [
+      "Worked on a project basis with international clients",
+      "Designed UX concepts and developed UI prototypes",
+      "Lead FE developer on a project for a telecom network operator"
+    ]
+  },
+  {
+    "company": "Spoiled Milk",
+    "position": "Front-end Developer",
+    "type": "internship",
+    "location": "Copenhagen, DK",
+    "website": "http://spoiledmilk.com/",
+    "startDate": "Sep 2014",
+    "endDate": "Dec 2014",
+    "duration": "4 months",
+    "highlights": [
+      "Performed various ad-hoc development tasks across projects",
+      "Supported core developers on a homepage redesign for a major national political party",
+      "Maintained a homepage for a UK-based investment bank"
+    ]
+  },
+  {
+    "company": "Fontai",
+    "position": "Assistant Project Manager",
+    "type": "freelance",
+    "location": "Prague, CZ",
+    "website": "https://fontai.com/",
+    "startDate": "May 2012",
+    "endDate": "Sep 2012",
+    "duration": "5 months",
+    "highlights": [
+      "Overseen the development of an internal newsletter tool used by the agency's clients",
+      "Prepared a pricing model, promo materials, presentations and newsletter prototypes"
+    ]
+  }
+]

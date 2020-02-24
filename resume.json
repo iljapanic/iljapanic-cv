@@ -35,6 +35,19 @@
   },
   "work": [
     {
+      "company": "Memsource",
+      "position": "UX Engineer",
+      "website": "https://memsource.com",
+      "type": "full-time",
+      "location": "Prague, CZ",
+      "startDate": "Jan 2020",
+      "endDate": "present",
+      "highlights": [
+        "Collaborating with executives to devise a long-term UX design strategy",
+        "Planning & developing a design system"
+      ]
+    },
+    {
       "company": "iljapanic.com",
       "position": "UX Engineer & Information Architect",
       "website": "https://iljapanic.com",
@@ -52,7 +65,7 @@
       "company": "Copenhagen Business School",
       "position": "Research Assistant",
       "type": "freelance",
-      "location": "Copenhagen",
+      "location": "Copenhagen, DK",
       "website": "https://iljapanic.com",
       "startDate": "Apr 2017",
       "endDate": "Oct 2017",
@@ -66,7 +79,7 @@
       "company": "Folkmatic",
       "position": "Front-end Developer",
       "type": "freelance",
-      "location": "Copenhagen",
+      "location": "Copenhagen, DK",
       "website": "http://folkmatic.com/",
       "startDate": "Jan 2015",
       "endDate": "Jun 2015",
@@ -81,7 +94,7 @@
       "company": "Spoiled Milk",
       "position": "Front-end Developer",
       "type": "internship",
-      "location": "Copenhagen",
+      "location": "Copenhagen, DK",
       "website": "http://spoiledmilk.com/",
       "startDate": "Sep 2014",
       "endDate": "Dec 2014",
@@ -96,7 +109,7 @@
       "company": "Fontai",
       "position": "Assistant Project Manager",
       "type": "freelance",
-      "location": "Prague",
+      "location": "Prague, CZ",
       "website": "https://fontai.com/",
       "startDate": "May 2012",
       "endDate": "Sep 2012",

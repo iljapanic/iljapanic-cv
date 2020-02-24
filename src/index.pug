@@ -19,7 +19,7 @@ html(lang='en')
         section
           h2.section-title.mb-4 Experience
 
-          each job in work
+          each job, index in work
             include includes/job.pug
 
         section
@@ -31,3 +31,6 @@ html(lang='en')
       aside(class="lg_w-1/3")
         section
           h2.section-title Skills
+
+
+    script(src="./js/index.js")
